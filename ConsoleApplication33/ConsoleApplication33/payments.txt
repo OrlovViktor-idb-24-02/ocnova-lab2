@@ -1,0 +1,6 @@
+Cash;1000
+Card;500;1,5
+Online;200;3
+Cash;750
+Card;300;2
+Online;1500;5
